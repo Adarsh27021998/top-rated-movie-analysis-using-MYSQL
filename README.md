@@ -3,30 +3,7 @@ using ERD diagram analysze the movies using MYSQL
 USE imdb;
 
 
-			genre			ratings	
-			* movie_id			* movie_id	
-			* genre			avg_rating	
-						total_votes	
-						median_rating	
-							
-							
-			movie				
-			* id				
-			title				
-			year				
-			date_published				
-role_mapping			duration			director_mapping	
-* movie_id			country			* movie_id	
-* name_id			worlwide_gross_income			* name_id	
-category			languages				
-			production_company				
-							
-			names				
-			* id				
-			name				
-			height				
-			date_of_birth				
-			known_for_movies				
+						
 							
 ![image](https://user-images.githubusercontent.com/106007601/194349471-d827a780-1d62-4901-982a-149b67814ed3.png)
 
